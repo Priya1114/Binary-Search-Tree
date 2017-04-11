@@ -1,5 +1,6 @@
 # Binary-Search-Tree
   
+  This Repo consists the c++ codes to create,insert ,delete and performing many other operations on Binary Serach Tree.   
 
 #Steps to use:
 
